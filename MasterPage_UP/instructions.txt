@@ -1,0 +1,1 @@
+A Dll adicionamos nas referencias do projeto, no gerenciador de projetos, junto onde ficam os forms e tudo mais

@@ -1,0 +1,74 @@
+﻿    
+//Registrando um Script
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            /*
+            //registra dinâmicamente o Script na área do Form
+            String concatena_script = "";
+            String valor_inserir = "Rubão";
+            concatena_script += "<script language='JavaScript'>";
+            concatena_script += ";document.forms[0].TextBox1.value= '";
+            concatena_script += valor_inserir;
+            concatena_script += "';";
+            concatena_script += "</script>";
+            Page.ClientScript.RegisterStartupScript(this.GetType(), "MeuScript", concatena_script);
+            */
+
+			//Outra Maneira
+            Button1.Attributes.Add("onclick","Javascript:window.alert('Acionado o Alerta')");
+
+        }
+
+//***********************************************************************************
+
+<%@ Page Language="C#" MasterPageFile="~/Layout1.Master" AutoEventWireup="true" CodeBehind="JavaScript1.aspx.cs" Inherits="ASPXMasterPageDB1.JavaScript1" %>
+
+<asp:Content id="Content1" ContentPlaceholderID="cabecalho" runat="server">
+    JavaScript
+</asp:Content>
+
+<asp:Content id="Content2" ContentPlaceholderID="corpo_principal" runat="server">
+    <script type="text/javascript">
+    function clicar() 
+    {
+        //valor=document.getElementById('TextBox1').value;
+        //window.alert(valor);
+        //window.alert(document.forms[0].TextBox1.value);
+        //val1 = eval(document.getElementById('TextBox1').value);
+        //resultado = val1 + 10;
+        //alert(resultado);
+        //document.write("<h2>Teste</h2><br /><h5> Outro Teste</h5>");
+    }
+    </script>
+    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+    <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" OnClientClick="clicar();"/>  
+</asp:Content>
+	
+//************************************************************************************************************
+	
+	<script type="text/javascript" language="javascript" src="javascript/jquery.js"> 
+        //JQuery
+        //adicionar a página o botão <button id="botao">Clique aqui</button>
+        $(document).ready(function()
+        {
+            $("#botao").click(function() 
+            {
+                window.alert('Olá mundo');
+            }); 
+        }); 
+    </script>
+//*********************************************************************************************************
+
+<body onload="javascript:document.forms[0]['TextBox1'].value=Date();">
+
+//**********************************************************************************************************
+
+jscript += "<script language='JavaScript'>";
+jscript += ";window.opener.document.forms[0].TextBox1.value= '";
+jscript += valor_inserir;
+jscript += "';window.close();";
+jscript += "</script>";
+Page.ClientScript.RegisterStartupScript(this.GetType(),"MeuScript", jscript);
+
+//***************************************************************************************

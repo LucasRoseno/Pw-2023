@@ -1,0 +1,27 @@
+create database Teste
+go
+use Teste
+go
+create table contatos(
+id int primary key identity,
+nome varchar(80),
+fone varchar(20)
+)
+
+insert into contatos values('Aluno1','111111')
+insert into contatos values('Aluno2','222222')
+insert into contatos values('Aluno3','333333')
+insert into contatos values('Aluno4','444444')
+insert into contatos values('Aluno5','555555')
+
+select * from contatos
+create table relatorio
+(
+	id int primary key identity,
+	MES varchar(60),
+	VALOR int
+)
+
+insert into relatorio values('Março',200)
+insert into relatorio values('Abril',100)
+insert into relatorio values('Maio',800)

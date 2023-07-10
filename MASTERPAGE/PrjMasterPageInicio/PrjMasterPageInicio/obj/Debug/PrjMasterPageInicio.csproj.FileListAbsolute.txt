@@ -1,0 +1,208 @@
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\ApplicationInsights.config
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\csc.exe
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\vbc.exe
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll.config
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.pdb
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.dll
+C:\Users\Lab\Desktop\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.pdb
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\ApplicationInsights.config
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\csc.exe
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\vbc.exe
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll.config
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.pdb
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.xml
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.AssemblyReference.cache
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CoreCompileInputs.cache
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CopyComplete
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.dll
+C:\Users\Internet\Documents\Visual Studio 2019\Projetos\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.pdb
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\ApplicationInsights.config
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll.config
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.pdb
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.xml
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CopyComplete
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.dll
+C:\Users\Lab_ETESP\Documents\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.pdb
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\ApplicationInsights.config
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll.config
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.pdb
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.xml
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CopyComplete
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.dll
+C:\Users\Lab_ETESP\Desktop\Server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.pdb
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\ApplicationInsights.config
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\csc.exe
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CSharp.Core.targets
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Collections.Immutable.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Reflection.Metadata.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\vbc.exe
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe.config
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll.config
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.pdb
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Agent.Intercept.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.PerfCounterCollector.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.xml
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.xml
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.xml
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.xml
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csprojAssemblyReference.cache
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CoreCompileInputs.cache
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CopyComplete
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.dll
+\\lab02t-00\server\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.pdb
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\ApplicationInsights.config
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\csc.exe
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Collections.Immutable.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\System.Reflection.Metadata.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\vbc.exe
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\roslyn\VBCSCompiler.exe.config
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll.config
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\PrjMasterPageInicio.pdb
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Agent.Intercept.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.DependencyCollector.xml
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.Web.xml
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.AI.WindowsServer.xml
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.ApplicationInsights.xml
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csprojAssemblyReference.cache
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CoreCompileInputs.cache
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.csproj.CopyComplete
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.dll
+F:\q\RUBENS_DA_MASSA\PW2\MASTERPAGE\PrjMasterPageInicio\PrjMasterPageInicio\obj\Debug\PrjMasterPageInicio.pdb

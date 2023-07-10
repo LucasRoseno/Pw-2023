@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" ClientIDMode="Static" CodeBehind="Layout1.master.cs" Inherits="ASPXMasterPageDB1.Layout1" %>
+
+<!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!DOCTYPE HTML>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title><asp:ContentPlaceHolder ID="cabecalho" runat="server"></asp:ContentPlaceHolder></title>
+    <!-- carregado a folha de estilos -->
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <style type="text/css">
+        .auto-style1 {
+            width: 300px;
+            height: 118px;
+        }
+        .auto-style2 {
+            width: 117px;
+            height: 118px;
+        }
+        .auto-style3 {
+            width: 718px;
+            height: 106px;
+        }
+    </style>
+</head>
+    
+<body>
+    
+    <form id="form1" runat="server">
+    <!--<div id="lateral1">-->
+        
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        
+        <asp:UpdatePanel ID="UpdatePanel1" UpdateMode="Always" runat="server">
+            <ContentTemplate>
+                <table style="background-color:#eb2d26">
+                    <tr>
+                        <td class="auto-style1" >
+                            <asp:Image ID="Image1" runat="server" ImageUrl="~/imagens/simbolo-comunismo240px.png" Height="152px" Width="177px" />
+                        </td>
+                        <td bgcolor="#f02010" class="auto-style2">
+                            <h2 ; font-size="40px" class="auto-style3">“Os proletários nada têm a perder a não ser suas algemas. Têm um mundo a ganhar.
+                                Proletários de todo o mundo, uni-vos.” Karl Marx e Frederich Engels, 1848. </h2>
+                        </td>
+                        <div class="ttx">
+
+                        </div>
+                    </tr>
+                    <tr>
+                        <td style="width: 271px; height: 260px;" align="left" valign="top">
+                            <table width="100%" border="1">
+                                <tr>
+                                    <td style="width: 337%; height: 21px">
+                                        <a href="Inicio.aspx">Inicio</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%; height: 21px">
+                                        <a href="DataList.aspx">DataList</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Graficos.aspx">Graficos</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Relatorio.aspx">Relatório</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <!--<a href="Inicio.aspx">Teste</a>-->
+                                        <asp:Button ID="Button1" runat="server" Text="Logout" OnClick="Button1_Click" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="JavaScript1.aspx">JavaScript</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Manifesto.aspx">Manifesto</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Produtos.aspx">Produtos</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Boletos.aspx">Boletos</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 337%">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="100%" valign="top" style="height: 260px">
+                            <asp:ContentPlaceHolder ID="corpo_principal" runat="server"></asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+    </form>
+</body>
+</html>

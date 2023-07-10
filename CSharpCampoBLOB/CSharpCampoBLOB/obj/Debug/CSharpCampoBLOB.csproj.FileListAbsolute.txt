@@ -1,0 +1,38 @@
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe.config
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csprojResolveAssemblyReference.cache
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Form1.resources
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.pdb
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.exe
+c:\users\internet\documents\visual studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe.config
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csproj.GenerateResource.Cache
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe.config
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.pdb
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Form1.resources
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Properties.Resources.resources
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.exe
+C:\Users\Lab_ETESP\Documents\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.pdb
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe.config
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.exe
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\bin\Debug\CSharpCampoBLOB.pdb
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csprojAssemblyReference.cache
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Form1.resources
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.Properties.Resources.resources
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csproj.GenerateResource.cache
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.csproj.CoreCompileInputs.cache
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.exe
+\\lab02t-00\Server\CSharpCampoBLOB\CSharpCampoBLOB\obj\Debug\CSharpCampoBLOB.pdb

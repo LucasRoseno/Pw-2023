@@ -1,0 +1,21 @@
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.dll
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.pdb
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\RdlCompile.cache
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\RdlCompile.compiled
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.dll
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.pdb
+C:\Users\RSF\documents\visual studio 2012\Projects\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.csprojResolveAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.dll
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.pdb
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.dll.config
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.dll
+C:\Users\Lab_ETESP\Documents\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.pdb
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.dll.config
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.dll
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\bin\ASPXMasterPageDB1.pdb
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.csprojAssemblyReference.cache
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.csproj.CoreCompileInputs.cache
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.dll
+F:\q\RUBENS_DA_MASSA\PW2\tt12\ASPXMasterPageDB1\ASPXMasterPageDB1\obj\Debug\ASPXMasterPageDB1.pdb

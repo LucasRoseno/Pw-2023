@@ -1,0 +1,9 @@
+
+/*Arranca as marcas do ul e li*/
+
+#div, ul li 
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}

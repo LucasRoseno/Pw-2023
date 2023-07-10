@@ -1,0 +1,43 @@
+﻿body {
+}
+
+.choose {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.btnChoose {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border: none;
+    background-color: black;
+    margin: 20px 20px;
+}
+
+.mainPAGE {
+    display: block;
+    width: 100%;
+}
+
+.blockPAGE {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 1134px;
+}
+
+.imgdivPAGE {
+    width: 20%;
+    width: 400px;
+}
+
+.imgPAGE {
+    object-fit: cover;
+    height: 700px;
+    width: 300px;
+}
+
+.textPAGE {
+    width: 70%;
+}

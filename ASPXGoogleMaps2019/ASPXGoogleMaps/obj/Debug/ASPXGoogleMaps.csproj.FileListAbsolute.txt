@@ -1,0 +1,134 @@
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\ApplicationInsights.config
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\csc.exe
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\vbc.exe
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll.config
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\ASPXGoogleMaps.pdb
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.Web.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.Web.xml
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.dll
+C:\Users\Lab\Desktop\ASPXGoogleMaps\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.pdb
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ApplicationInsights.config
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\csc.exe
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\vbc.exe
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.pdb
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Web.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Web.xml
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.dll
+C:\Users\Virtual\Documents\Visual Studio 2012\Projects\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.pdb
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ApplicationInsights.config
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll.config
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.pdb
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Web.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Web.xml
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csproj.CopyComplete
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.dll
+C:\Users\Lab_ETESP\Documents\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.pdb
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ApplicationInsights.config
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\csc.exe
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\System.Collections.Immutable.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\System.Reflection.Metadata.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\vbc.exe
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\roslyn\VBCSCompiler.exe.config
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll.config
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\ASPXGoogleMaps.pdb
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Agent.Intercept.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Web.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.DependencyCollector.xml
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.Web.xml
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.AI.WindowsServer.xml
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.ApplicationInsights.xml
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csprojAssemblyReference.cache
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csproj.CoreCompileInputs.cache
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.csproj.CopyComplete
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXGoogleMaps2019\ASPXGoogleMaps\obj\Debug\ASPXGoogleMaps.pdb

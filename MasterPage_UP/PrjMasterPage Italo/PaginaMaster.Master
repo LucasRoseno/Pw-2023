@@ -1,0 +1,138 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaster.master.cs" Inherits="PrjMasterPage_Italo.PaginaMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <link href="StyleSheet2.css" rel="stylesheet" />
+    <title><asp:ContentPlaceHolder ID="cabecalho" runat="server"></asp:ContentPlaceHolder></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"/>
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous"/>
+    <script
+  src="https://code.jquery.com/jquery-3.6.4.js"
+  integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
+  crossorigin="anonymous"></script>
+<!--    <script src="Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script></head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+              <asp:UpdatePanel ID="UpdatePanel1" UpdateMode="Always" runat="server">
+                   <ContentTemplate>
+            <div class ="login">
+
+            </div>
+            <div class="all">
+            <div class="main">
+                <div class="main-top">
+                    <div class="left">
+                        <div class="image"><asp:Image ImageUrl="imagens/logo2.png"  runat="server" CssClass="img"/>
+                            
+                        </div>
+                        <div class="contentdiv">
+       
+                            </div>
+                    </div>
+                    <div class="right"> 
+                        <div class="ulpage">
+                            <div class="lipage">
+                   <a href="Graficos.aspx" class="page" runat="server" onmouseover="javascript:evento();">GRAFICOS</a>
+               </div>
+                            <div class="lipage">
+                   <a href="Boleto.aspx" class="page" runat="server" onmouseover="javascript:evento();">Boleto</a>
+               </div>
+                         <div class="lipage">
+                   <a href="Images.aspx" class="page" runat="server" onmouseover="javascript:evento();">Imagens</a>
+               </div>
+               <div class="lipage">
+                   <a href="Pagina1.aspx" class="page" runat="server" onmouseover="javascript:evento();">Manifesto</a>
+               </div>
+              
+               <div class="lipage">
+                   <a href="Pagina2.aspx" class="page" onmouseover="javascript:evento();">Comunismo</a>
+               </div>
+
+               
+               <div class="lipage">
+                   <a href="Pagina3.aspx" class="page" onmouseover="javascript:evento();">Barcelona</a>
+               </div>
+
+               
+               <div class="lipage">
+                   <a href="Pagina4.aspx" class="page" onmouseover="javascript:evento();">The Witcher 3</a>
+               </div>
+
+               
+              
+                            <script>
+                                function evento(e) {
+
+                                    document.getElementById(e.target.id).classList.add("active");
+                                   
+                                }
+                            </script>
+           </div>
+                    </div>
+                    </div>    
+                    <div class="banner">
+                     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <asp:Image Height="400px"  ImageUrl="imagens/marx.jpg"  runat="server" CssClass="img"/>
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+    <div class="item">
+      <asp:Image Height="400px" Width="100%" ImageUrl="imagens/lenin.jpg"  runat="server" CssClass="img"/>
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+    <div class="item">
+      <asp:Image Height="400px" Width="100%" ImageUrl="imagens/simbolo-comunismo.png"  runat="server" CssClass="img"/>
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+      ...
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+                           </div>
+                        <div class="content">
+                            <asp:ContentPlaceHolder ID="corpo_principal" runat="server"></asp:ContentPlaceHolder>
+                        </div>
+                          </div>
+            </ContentTemplate>
+               </asp:UpdatePanel>
+      
+             
+          
+ 
+    </form>
+</body>
+</html>

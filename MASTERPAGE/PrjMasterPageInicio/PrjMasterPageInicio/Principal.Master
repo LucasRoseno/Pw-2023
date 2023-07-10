@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="PrjMasterPageInicio.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title><asp:ContentPlaceHolder ID="cabecalho" runat="server"></asp:ContentPlaceHolder></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 1909px;
+            height: 157px;
+        }
+        .auto-style2 {
+            height: 260px;
+            width: 1909px;
+        }
+        .auto-style3 {
+            width: 1544px;
+            margin-right: 2px;
+        }
+        .auto-style4 {
+            width: 192px;
+            height: 157px;
+        }
+        .auto-style5 {
+            width: 192px;
+            height: 260px;
+        }
+        .auto-style8 {
+            height: 21px;
+            width: 359%;
+        }
+        .auto-style9 {
+            width: 359%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <asp:UpdatePanel ID="UpdatePanel1" UpdateMode="Always" runat="server">
+            <ContentTemplate>
+                <table class="auto-style3">
+
+                    
+
+                    <tr style="width:300px" bgcolor="#e87d7f">
+                        <td class="auto-style4">
+                            <asp:Image ID="Image1" runat="server" ImageUrl="~/imagens/dilmPombedt.jpg" Height="153px" Width="187px" />
+                        </td>
+                        <td bgcolor="#AADD33" class="auto-style1">
+                          
+                        </td>
+                    </tr>
+
+
+
+
+                    <tr>
+                        <td align="left" valign="top" class="auto-style5">
+                            <table width="90%" border="1" bordercolor="#339999">
+                                <tr>
+                                    <td class="auto-style8">
+                                        <a href="Inicio.aspx">Inicio</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style8">
+                                        <a href="Pagina1.aspx">Pagina 1</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Pagina2.aspx">Pagina 2</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style9">
+                                        <a href="Inicio.aspx">Teste</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td valign="top" class="auto-style2">
+                            <asp:ContentPlaceHolder ID="corpo_principal" runat="server">
+                                <p>
+                                    a</p>
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+    </div>
+    </form>
+</body>
+</html>

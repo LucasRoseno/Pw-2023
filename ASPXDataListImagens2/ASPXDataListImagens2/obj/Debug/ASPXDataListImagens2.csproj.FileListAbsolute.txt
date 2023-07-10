@@ -1,0 +1,19 @@
+c:\users\rsf\documents\visual studio 2012\Projects\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.csprojResolveAssemblyReference.cache
+c:\users\rsf\documents\visual studio 2012\Projects\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.dll
+c:\users\rsf\documents\visual studio 2012\Projects\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.pdb
+c:\users\rsf\documents\visual studio 2012\Projects\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.dll
+c:\users\rsf\documents\visual studio 2012\Projects\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.pdb
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.dll.config
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.dll
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.pdb
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.dll
+C:\Users\Lab_ETESP\Documents\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.pdb
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.dll.config
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\bin\ASPXDataListImagens2.pdb
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.csprojAssemblyReference.cache
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.csproj.CoreCompileInputs.cache
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.dll
+F:\q\RUBENS_DA_MASSA\PW2\ASPXDataListImagens2\ASPXDataListImagens2\obj\Debug\ASPXDataListImagens2.pdb

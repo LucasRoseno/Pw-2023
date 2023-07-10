@@ -1,0 +1,216 @@
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll.config
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\PrjMasterPage Italo.pdb
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\csc.exe
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\csc.exe.config
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\csc.rsp
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\csi.exe
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\csi.rsp
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\System.AppContext.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\vbc.exe
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\vbc.exe.config
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\vbc.rsp
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csprojAssemblyReference.cache
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CoreCompileInputs.cache
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CopyComplete
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.dll
+C:\Users\Lab ETESP\source\repos\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.pdb
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll.config
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.pdb
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.exe
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.exe.config
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.rsp
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csi.exe
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csi.rsp
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.AppContext.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Collections.Immutable.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Reflection.Metadata.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.exe
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.exe.config
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.rsp
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe.config
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csprojAssemblyReference.cache
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CoreCompileInputs.cache
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CopyComplete
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.dll
+E:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.pdb
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll.config
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.pdb
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.exe
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.exe.config
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.rsp
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csi.exe
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csi.rsp
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.AppContext.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Collections.Immutable.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Reflection.Metadata.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.exe
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.exe.config
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.rsp
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe.config
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CoreCompileInputs.cache
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CopyComplete
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.dll
+F:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.pdb
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll.config
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\PrjMasterPage Italo.pdb
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.exe
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.exe.config
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csc.rsp
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csi.exe
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\csi.rsp
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.AppContext.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Collections.Immutable.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\System.Reflection.Metadata.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.exe
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.exe.config
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\vbc.rsp
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe.config
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Boleto.Net.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CoreCompileInputs.cache
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CopyComplete
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.dll
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.pdb
+G:\ETEC\MATÉRIAS\PW III\MasterPage Italo - Copia\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csprojAssemblyReference.cache
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll.config
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\PrjMasterPage Italo.pdb
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csc.exe
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csc.exe.config
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csc.rsp
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csi.exe
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csi.rsp
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.AppContext.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.Collections.Immutable.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.Reflection.Metadata.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\vbc.exe
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\vbc.exe.config
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\vbc.rsp
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe.config
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csprojAssemblyReference.cache
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CoreCompileInputs.cache
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CopyComplete
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.dll
+F:\q\RUBENS_DA_MASSA\PW2\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.pdb
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll.config
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\PrjMasterPage Italo.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\PrjMasterPage Italo.pdb
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csc.exe
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csc.exe.config
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csc.rsp
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csi.exe
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\csi.rsp
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.AppContext.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\vbc.exe
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\vbc.exe.config
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\vbc.rsp
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.csproj.CopyComplete
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.dll
+C:\Users\Cliente\Desktop\MasterPage_UP\PrjMasterPage Italo\obj\Debug\PrjMasterPage Italo.pdb
